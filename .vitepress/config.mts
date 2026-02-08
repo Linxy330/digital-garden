@@ -11,13 +11,17 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
 
     // 左上角的网站标题
-    siteTitle: 'Kenny\'s Digital Garden',
+    siteTitle: 'Kenny\'s Garden',
+
+    // 目录显示的层级（显示 h2 到 h4）
+    outline: {
+      level: [2, 4],
+      label: '目录'
+    },
 
     // 右上角的导航栏
     nav: [
       { text: '首页', link: '/' },
-      { text: '技术笔记', link: '/markdown-examples' },
-      { text: '关于我', link: '/api-examples' }
     ],
 
     // 左侧的侧边栏 (目录)
@@ -25,8 +29,7 @@ export default defineConfig({
       {
         text: '最近更新',
         items: [
-          { text: 'Markdown 示例', link: '/markdown-examples' },
-          { text: 'API 示例', link: '/api-examples' }
+          { text: '在云端种下一座花园：我的个人网站搭建记', link: '/deployment-story' }
         ]
       }
     ],

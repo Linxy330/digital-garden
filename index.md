@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Kenny's Garden"
   text: "Kenny's Digital Garden"
-  tagline: My great project tagline
+  # tagline: "My great project tagline"
   actions:
     - theme: brand
       text: Markdown Examples
@@ -14,12 +14,11 @@ hero:
       text: API Examples
       link: /api-examples
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+# features:
+#   - title: Feature A
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature B
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature C
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-

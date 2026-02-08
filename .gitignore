@@ -4,3 +4,15 @@ dist
 cache
 .idea
 deploy_key
+deploy_key.pub
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vscode/
+.vitepress/dist
+.vitepress/cache

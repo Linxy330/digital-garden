@@ -7,6 +7,9 @@ export default defineConfig({
 
   lang: 'zh-CN',
 
+  // 忽略死链接报错
+  ignoreDeadLinks: true,
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 

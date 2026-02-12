@@ -15,8 +15,8 @@ hero:
   
   <a href="/deployment-story" class="post-item">
     <div class="post-content">
-      <div class="post-title">在云端种下一座花园：我的个人网站搭建记</div>
-      <div class="post-desc">还没想好这里放什么</div>
+      <div class="post-title">在云端种下一座花园</div>
+      <div class="post-desc">我的个人网站搭建记</div>
     </div>
     <div class="post-date">2026-02-08</div>
   </a>

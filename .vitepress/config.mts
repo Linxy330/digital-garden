@@ -32,7 +32,7 @@ export default defineConfig({
       {
         text: '最近更新',
         items: [
-          { text: '在云端种下一座花园：我的个人网站搭建记', link: '/deployment-story' }
+          { text: '在云端种下一座花园', link: '/deployment-story' }
         ]
       }
     ],

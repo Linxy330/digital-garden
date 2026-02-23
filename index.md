@@ -21,6 +21,13 @@ hero:
     <div class="post-date">2026-02-08</div>
   </a>
 
+  <a href="/brightness-problem" class="post-item">
+    <div class="post-content">
+      <div class="post-title">关于 Pixel 刷码进站的那码事</div>
+      <div class="post-desc">使用 Extra Dim 功能解决屏幕亮度过高的问题</div>
+    </div>
+    <div class="post-date">2026-02-23</div>
+  </a>
   </div>
 
 <style>

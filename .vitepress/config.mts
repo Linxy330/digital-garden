@@ -32,7 +32,8 @@ export default defineConfig({
       {
         text: '最近更新',
         items: [
-          { text: '在云端种下一座花园', link: '/deployment-story' }
+          { text: '在云端种下一座花园', link: '/deployment-story' },
+          { text: '关于 Pixel 刷码进站的那码事', link: '/brightness-problem' }
         ]
       }
     ],
